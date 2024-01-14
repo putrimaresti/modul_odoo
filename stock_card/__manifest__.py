@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': "Stock Card",
+    'name': "Stock Card Trisakti",
     "version": "16.0.1.0.0",
     "category": "Warehouse",
     "summary": "All warehouse related PDF and Excel reports",
