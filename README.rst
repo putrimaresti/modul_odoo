@@ -2,7 +2,7 @@
     :target: https://www.gnu.org/licenses/lgpl-3.0-standalone.html
     :alt: License: LGPL-3
 
-Warehouse Reports
+Stock Card Trisakti
 =================
 PDF and Excel report of the Stock Move,Product,Transfer and Stock Valuation
 
