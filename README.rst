@@ -3,7 +3,7 @@
     :alt: License: LGPL-3
 
 Nama Mahasiswa , nim
-=================
+====================
 Putri Maresti , 065002000020
 
 Program Studi
