@@ -3,7 +3,7 @@
     :alt: License: LGPL-3
 
 Stock Card Trisakti
-=============
+===================
 PDF and Excel report of the Stock Move,Product,Transfer and Stock Valuation
 
 Configuration
