@@ -136,10 +136,10 @@ class StockProductReport(models.TransientModel):
             sheet.write(row, 0, flag, txt)
             sheet.write(row, 1, record['product_name'], txt)
             sheet.write(row, 2, record['category_name'], txt)
-            sheet.write(row, 3, record['outgoing_qty'], txt)
-            sheet.write(row, 4, record['incoming_qty'], txt)
-            sheet.write(row, 5, record['free_qty'], txt)
-            sheet.write(row, 6, record['qty_available'], txt)
+            sheet.write(row, 3, record['qty_available'], txt)
+            sheet.write(row, 4, record['free_qty'], txt)
+            sheet.write(row, 5, record['incoming_qty'], txt)
+            sheet.write(row, 6, record['outgoing_qty'], txt)
             flag += 1
             row += 1
         workbook.close()
