@@ -6,7 +6,7 @@
     "description": "User is able to print Pdf and Excel report of Stock move,"
                    "Transfer,Product,Stock valuation.All warehouse related PDF"
                    "and Excel report",
-    'author': 'Putri Maresti',
+    'author': 'Trisakti University',
     'company': 'Trisakti University',
     'depends': ['stock', 'stock_account'],
     'data': [
